@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;img src=&quot;/assets/minion.png&quot; width=&quot;90&quot;&gt;</title>
+    <description>Y U A N</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 23 Feb 2019 14:48:11 -0600</pubDate>
+    <lastBuildDate>Sat, 23 Feb 2019 14:48:11 -0600</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;p&gt;testing for computer science&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Feb 2018 14:06:00 -0600</pubDate>
+        <link>http://localhost:4000/computerscience/2018/02/15/Hello-World-copy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/computerscience/2018/02/15/Hello-World-copy.html</guid>
+        
+        
+        <category>computerscience</category>
+        
+      </item>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;p&gt;testing for psych&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Feb 2018 14:06:00 -0600</pubDate>
+        <link>http://localhost:4000/psychneuro/2018/02/15/Hello-World-copy-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/psychneuro/2018/02/15/Hello-World-copy-2.html</guid>
+        
+        
+        <category>psychneuro</category>
+        
+      </item>
+    
+  </channel>
+</rss>

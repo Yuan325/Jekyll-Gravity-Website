@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% seo %}
+  </head>
+    
+  <body class="{% if site.theme-dark %} dark {% else %} light {% endif %} ">
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="{% if site.theme-dark %} dark {% else %} light {% endif %} ">
+
+      <div class="wrapper">
+          <br>
+          <img src="/assets/JYlogowhite.jpg" width="50">
+      </div>
+      <div class="wrapper">
+      </div>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
